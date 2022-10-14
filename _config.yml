@@ -14,7 +14,7 @@ minima:
    
 
 markdown: kramdown
-remote_theme: benbalter/retlab
+theme: minima
 
 plugins:
  - jekyll-feed
