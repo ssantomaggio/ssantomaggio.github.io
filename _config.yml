@@ -13,8 +13,8 @@ minima:
     github:  ssantomaggio
    
 
-
-theme: minima
+markdown: kramdown
+remote_theme: benbalter/retlab
 
 plugins:
  - jekyll-feed
