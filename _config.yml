@@ -1,4 +1,21 @@
-markdown: kramdown
-remote_theme: benbalter/retlab
-title: Stefano Santomaggio's homepage
-description: This is my website
+title: Stefano's Website
+author:
+  name: Ssantomaggio
+  email: stefano.santomaggio02@gmail.com
+description: > 
+  Hello everyone I am a computer science student of UNIVAQ
+show_excerpts: false 
+minima:
+  date_format: "%b %-d, %Y"
+
+ 
+  social_links:
+    github:  ssantomaggio
+   
+
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
