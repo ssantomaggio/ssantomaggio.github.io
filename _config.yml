@@ -1,18 +1,14 @@
 title: Stefano's Website
 author:
   name: Stefano Santomaggio
+  social links:
   email: stefano.santomaggio02@gmail.com
-  github account: ssantomaggio
+  github: ssantomaggio
 description: > 
   Hello everyone I am a computer science student of UNIVAQ
 show_excerpts: false 
 minima:
-  date_format: "%b %-d, %Y"
-
- 
-  social_links:
-    github:  ssantomaggio
-   
+  date_format: "%b %-d, %Y"  
 
 markdown: kramdown
 theme: minima
